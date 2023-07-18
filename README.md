@@ -10,7 +10,7 @@ The fully responsive design, functional navbar with submenus, smooth transitions
 
 ## Important Links
 
-- 
+- https://strapi-im.netlify.app/
 
 ### Setup Steps
 
